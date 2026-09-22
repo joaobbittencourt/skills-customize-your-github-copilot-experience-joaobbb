@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "building-fastapi-web-frontend",
+      "title": "Building a Web Frontend for FastAPI",
+      "description": "Build a web frontend that consumes a FastAPI REST API",
+      "path": "assignments/building-fastapi-web-frontend",
+      "dueDate": "2026-09-29"
     }
   ]
 }
